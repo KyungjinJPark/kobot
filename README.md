@@ -1,8 +1,7 @@
-# TODO 🤔
+# Kobot 🤖
 
-- Is there a better way to not handle errors twice?
-- there are no permissions
-- start script not working
-- tests?
+This is the source for the discord bot named kobot.
+
+## TODO
 - channel & guild support
-- SQL injection moment
+- tests
